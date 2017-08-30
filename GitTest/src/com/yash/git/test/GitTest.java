@@ -7,5 +7,4 @@ public class GitTest {
 		System.out.println("Hello to Git Hub!!");
 		System.out.println("Second Message");
 	}
-
 }
